@@ -6,6 +6,9 @@ In order to work, an additional backend application is needed, which implements 
 
 https://github.com/BibliothekTHWildau/node-rfid-server
 
+
+![Screenshot](https://github.com/BibliothekTHWildau/rfid-playground/blob/main/screenshot.png?raw=true)
+
 # essentials
 
 ## Project setup
