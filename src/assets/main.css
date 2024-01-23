@@ -1,0 +1,11 @@
+.controls {
+  border-color: rgba(var(--v-border-color), var(--v-border-opacity));
+  border-style: solid;
+  border-width: 0;
+  border-radius: 0;
+  background: rgb(var(--v-theme-on-surface-variant));
+  color: rgba(var(--v-theme-on-surface), var(--v-high-emphasis-opacity));
+  margin-left:0 !important;
+  margin-right:0 !important;
+  margin-bottom:5px !important
+}

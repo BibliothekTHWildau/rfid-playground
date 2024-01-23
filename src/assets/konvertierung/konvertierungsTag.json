@@ -1,0 +1,23 @@
+{
+  "UID": null,
+  "AFI": 7,
+  "dataModel" : "ISO28560-3",
+  "model": {
+    "basicBlock": {
+      "contentParameter": 1,
+      "partNumber": 1,
+      "partsInItem": 1,
+      "typeOfUsage": 1,      
+      "primaryItemIdentifier": "",
+      "ISIL": "DE526"
+    },
+    "extensionBlocks": [
+      {
+        "dataBlockID": 1,
+        "mediaFormat": 1,
+        "ItemIdentifier":null,
+        "OwnerInstitution": null
+      }
+    ]
+  }
+}

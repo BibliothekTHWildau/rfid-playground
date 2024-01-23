@@ -1,0 +1,47 @@
+{
+  "UID": null,
+  "AFI": 7,
+  "dataModel" : "ISO28560-3",
+  "model": {
+    "basicBlock": {
+      "contentParameter": 1,
+      "partNumber": 1,
+      "partsInItem": 1,
+      "typeOfUsage": 1,
+      
+      "primaryItemIdentifier": "klapptnicht",
+      "ISIL": "DE526"
+    },
+    "extensionBlocks": [
+      {
+        "dataBlockID": 1,
+        "mediaFormat": 1,
+        "ItemIdentifier":"itemidentifier",
+        "OwnerInstitution": "and owner institution"
+      },
+      {
+        "dataBlockID": 2,
+        "supplierInvoiceNumber": "one supplier invoice number",
+        "supplierIdentifier": "and one supplier identifier",
+        "productIdentifierLocal": "productindentifier local"
+      },
+      {
+        "dataBlockID": 3,
+        "MarcMediaFormat": "marc",
+        "OnixMediaFormat": "onix",
+        "shelfLocation": null,
+        "subsidiaryOfAnOwnerInstitution": "subsidiaryOfAnOwnerInstitutionsubsidiaryOfAnOwnerInstitution"
+      },
+      {
+        "dataBlockID": 4,
+        "title": "some fance extra title"
+      },
+      {
+        "dataBlockID": 5,
+        "alternativeILLBorrowingInstitution": "alt borrow",
+        "illBorrowingInstitution": null,
+        "illBorrowingTransactionNumber": "nothing"
+      }
+    ]
+  }
+}
